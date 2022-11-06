@@ -306,15 +306,15 @@
             </div>
             <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
               <div class="col-lg-6 col-md-6 portfolio-item filter-app">
-                <div class="portfolio-wrap"> <img src="assets/img/portfolio/IMG_5979.jpg"
+                <div class="portfolio-wrap"> <img src="assets/img/portfolio/IMG_5979.JPG"
 
                     class="img-fluid" alt="Picture of receiving an award from the English Project Contest at the sixth grade">
                   <img src="assets/img/portfolio/IMG_5982.jpg" class="img-fluid"
 
-                    alt=""> <img src="assets/img/portfolio/IMG_5981.jpg" class="img-fluid"
+                    alt=""> <img src="assets/img/portfolio/IMG_5981.JPG" class="img-fluid"
 
                     alt="Photos of contest activities on Science Day with classmates">
-                  <img src="assets/img/portfolio/IMG_5983.jpg" class="img-fluid"
+                  <img src="assets/img/portfolio/IMG_5983.JPG" class="img-fluid"
 
                     alt="Pictures of teaching activities for children to develop knowledge">
                   <div class="portfolio-info">
@@ -325,11 +325,11 @@
                 </div>
               </div>
               <div class="col-lg-6 col-md-6 portfolio-item filter-web">
-                <div class="portfolio-wrap"> <img src="assets/img/portfolio/IMG_6016.jpg"
+                <div class="portfolio-wrap"> <img src="assets/img/portfolio/IMG_6016.JPG"
 
                     class="img-fluid" alt="Picture of a French major in the Faculty of Arts Silpakorn University in 2022">
-                  <img src="assets/img/portfolio/F.jpg" class="img-fluid" alt="">
-                  <img src="assets/img/portfolio/IMG_5980.jpg" class="img-fluid"
+                  <img src="assets/img/portfolio/F.JPG" class="img-fluid" alt="">
+                  <img src="assets/img/portfolio/IMG_5980.JPG" class="img-fluid"
 
                     alt="Pictures of interviews with two juniors to make a report on the new paper of French majors in 2022">
                   <div class="portfolio-info">
@@ -454,7 +454,7 @@
               <div class="swiper-wrapper">
                 <!-- End testimonial item -->
                 <div class="swiper-slide">
-                  <div class="testimonial-item"> <img src="assets/img/testimonials/IMG_6019.png"
+                  <div class="testimonial-item"> <img src="assets/img/testimonials/IMG_6019.PNG"
 
                       class="testimonial-img" alt="My tutor who used to educate me to have good skills at work.">
                     <h3>Manee Sanya</h3>
@@ -480,7 +480,7 @@
                 </div>
                 <!-- End testimonial item -->
                 <div class="swiper-slide">
-                  <div class="testimonial-item"> <img src="assets/img/testimonials/IMG_5977.jpg"
+                  <div class="testimonial-item"> <img src="assets/img/testimonials/IMG_5977.JPG"
 
                       class="testimonial-img" alt="The student I used to tutor English for her to pass the ONET exam.">
                     <h3>Lapadrada Uthailee</h3>
@@ -492,7 +492,7 @@
                 </div>
                 <!-- End testimonial item -->
                 <div class="swiper-slide">
-                  <div class="testimonial-item"> <img src="assets/img/testimonials/IMG_5978.jpg"
+                  <div class="testimonial-item"> <img src="assets/img/testimonials/IMG_5978.JPG"
 
                       class="testimonial-img" alt="The student I used to tutor English for her entrance examination in high school in a special room.">
                     <h3>Hathairat Uthailee</h3>
